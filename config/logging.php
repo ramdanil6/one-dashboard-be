@@ -65,6 +65,12 @@ return [
             'replace_placeholders' => true,
         ],
 
+        'single_tmp' => [
+            'driver' => 'single',
+            'path' => sys_get_temp_dir() . '/laravel.log',
+            'level' => env('LOG_LEVEL', 'debug'),
+        ],
+
         'daily' => [
             'driver' => 'daily',
             'path' => storage_path('logs/laravel.log'),
