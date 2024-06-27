@@ -33,11 +33,11 @@
     "LOG_LEVEL": "debug",
 
     "DB_CONNECTION": "pgsql",
-    "DB_HOST": "aws-0-us-east-1.pooler.supabase.com",
-    "DB_PORT": "6543",
-    "DB_DATABASE": "postgres",
-    "DB_USERNAME": "postgres.iscatgawvvikhyunxmmv",
-    "DB_PASSWORD": "oneDashboard123#",
+    "DB_HOST": "ep-spring-wave-a4d41qa7-pooler.us-east-1.aws.neon.tech",
+    "DB_PORT": "5432",
+    "DB_DATABASE": "verceldb",
+    "DB_USERNAME": "default",
+    "DB_PASSWORD": "JdEYrtT31aXu",
 
     "SESSION_DRIVER": "cookie",
     "SESSION_LIFETIME": "120",
