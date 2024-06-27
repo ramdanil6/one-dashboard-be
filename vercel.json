@@ -18,7 +18,7 @@
     "APP_KEY": "base64:0SGD5JgAydH7Iycv9GcYkS+h9I8xbzMK3Zf+L2Im7Ko: ",
     "APP_DEBUG": "true",
     "APP_TIMEZONE": "UTC",
-    "APP_URL": "http://localhost:8080",
+    "APP_URL": "https://one-dashboard-be.vercel.app",
     "API_VERSION": "v1",
     "APP_LOCALE": "en",
     "APP_FALLBACK_LOCALE": "en",
